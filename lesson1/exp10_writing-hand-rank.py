@@ -9,10 +9,10 @@
 # Do this by completing each return statement below.
 #
 # You may assume the following behavior of each function:
-# Poker hands ÅÆÊÖ: Straight flush Í¬»¨Ë³, Four of a kind Õ¨µ¯, 
-# Flush Í¬»¨, Straight Ë³×Ó, Three of a kind Èı´ø¶ş, Full House Èı´ø¶Ô,
-# Two pair Á½¶Ô, One pair Ò»¶Ô, High card É¢ÅÆ
-# straight flush : Í¬»¨´óË³
+# Poker hands ç‰Œæ‰‹: Straight flush åŒèŠ±é¡º, Four of a kind ç‚¸å¼¹, 
+# Flush åŒèŠ±, Straight é¡ºå­, Three of a kind ä¸‰å¸¦äºŒ, Full House ä¸‰å¸¦å¯¹,
+# Two pair ä¸¤å¯¹, One pair ä¸€å¯¹, High card æ•£ç‰Œ
+# straight flush : åŒèŠ±å¤§é¡º
 # straight(ranks): returns True if the hand is a straight.
 # flush(hand):     returns True if the hand is a flush.
 # kind(n, ranks):  returns the first rank that the hand has
